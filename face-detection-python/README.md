@@ -1,2 +1,2 @@
-# Face-Detection
-simple face Detection using python and opencv
+# Face-Detection-Python
+Source code pendeteksi wajah menggunakan Python dan OpenCV
